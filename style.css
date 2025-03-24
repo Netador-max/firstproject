@@ -12,18 +12,30 @@ color: #E3DAC9
 
 h1{
 
-font-size: 3rem
+  font-family: cursive;
+
+text-decoration: underline;
+
+font-size: 5rem
 
 }
 
-h2{
-
-
-font-weight: 900;
-}
-
-h3{
-
+a{
   font-size: 2rem
+}
 
+a:hover{
+
+    text-decoration: underline;
+
+  color: grey
+}
+
+a{
+  color: black
+}
+
+h5{
+
+  color: #806000
 }
